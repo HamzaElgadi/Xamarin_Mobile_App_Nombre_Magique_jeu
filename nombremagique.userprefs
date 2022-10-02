@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{80D65BB2-D270-43CF-9407-1F079F39F698}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="nombremagique/Views/WinPage.xaml.cs">
+    <Files>
+      <File FileName="nombremagique/Views/WinPage.xaml" Line="6" Column="40" />
+      <File FileName="nombremagique/Views/WinPage.xaml.cs" Line="21" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.nombremagique.Droid PreferredExecutionTarget="Android.192.168.57.101:5555" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.nombremagique.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2263186A-4C71-4B25-912F-D28694983BA5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.nombremagique.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
